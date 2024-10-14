@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SATYAM SRIVASTVA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lieftsatyamshrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="lieftsatyamshrivastava" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lieftsatyamshrivastava" alt="lieftsatyamshrivastava" /></a> </p>
@@ -14,6 +16,9 @@
 - 📫 How to reach me **satyamsrivastava242@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lieftsatyamshrivastava&show_icons=true&locale=en" alt="lieftsatyamshrivastava" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lieftsatyamshrivastava&" alt="lieftsatyamshrivastava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lieftsatyamshrivastava" alt="lieftsatyamshrivastava" /></p>
 
 
 
@@ -37,3 +42,11 @@
 
 
 [![An image of @lieftsatyamshrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lieftsatyamshrivastava)](https://holopin.io/@lieftsatyamshrivastava)
+
+
+ 
+  <p>
+<img src="https://img.shields.io/badge/Lives-India-blue" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+</p>
+
