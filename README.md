@@ -36,4 +36,4 @@
 
 
 
-[![An image of @lieftsatyamshrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lieftsatyamshrivastava)](https://holopin.io/@lieftsatyamshrivastava) 
+[![An image of @lieftsatyamshrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lieftsatyamshrivastava)](https://holopin.io/@lieftsatyamshrivastava)
